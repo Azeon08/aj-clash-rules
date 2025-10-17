@@ -1,0 +1,19 @@
+rules:
+  - DOMAIN-SUFFIX,four.meme,节点选择
+  - DOMAIN-SUFFIX,fentybeauty.com,节点选择
+  - DOMAIN-SUFFIX,shelly.com,节点选择
+  - DOMAIN-SUFFIX,bagsmart.com,节点选择
+  - DOMAIN-SUFFIX,ekster.com,节点选择
+  - DOMAIN-SUFFIX,efanyun.net,节点选择
+  - DOMAIN-SUFFIX,clickdealer.com,DIRECT
+  - DOMAIN-SUFFIX,ads.google.com,节点选择
+  - DOMAIN-SUFFIX,ipmars.com,节点选择
+  - DOMAIN-SUFFIX,cpx24.net,DIRECT
+  - DOMAIN-SUFFIX,revuio.com,DIRECT
+  - DOMAIN-SUFFIX,wandanlianmeng.com,DIRECT
+  - DOMAIN-SUFFIX,cj.com,DIRECT
+  - DOMAIN-SUFFIX,zoho.com,DIRECT
+  - DOMAIN-SUFFIX,pepperjamnetwork.com,节点选择
+  - DOMAIN-SUFFIX,crocs.com,DIRECT
+  - DOMAIN-SUFFIX,semrush.fun,DIRECT
+  - DOMAIN-SUFFIX,truthsocial.com,美国01
