@@ -13,7 +13,19 @@ rules:
   - DOMAIN-SUFFIX,wandanlianmeng.com,DIRECT
   - DOMAIN-SUFFIX,cj.com,DIRECT
   - DOMAIN-SUFFIX,zoho.com,DIRECT
+  - DOMAIN-SUFFIX,ekster.com,节点选择
   - DOMAIN-SUFFIX,pepperjamnetwork.com,节点选择
   - DOMAIN-SUFFIX,crocs.com,DIRECT
   - DOMAIN-SUFFIX,semrush.fun,DIRECT
   - DOMAIN-SUFFIX,truthsocial.com,美国01
+  - DOMAIN-SUFFIX,deynora.com,DIRECT
+  - DOMAIN-SUFFIX,clickdealer.com,节点选择
+  - DOMAIN-SUFFIX,popads.net,节点选择
+  - DOMAIN-SUFFIX,gemini.google.com,美国01
+  - DOMAIN-SUFFIX,partnermatic.com,DIRECT
+  - IP-CIDR,43.167.167.187/32,DIRECT
+  - DOMAIN-SUFFIX,diabrowser.com,美国01
+  - DOMAIN-SUFFIX,anthropic.com,美国01
+  - DOMAIN-SUFFIX,ibkr.com,美国01
+  - DOMAIN-SUFFIX,interactivebrokers.com,美国01
+  - DOMAIN-SUFFIX,deynora.com,节点选择
