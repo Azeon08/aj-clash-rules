@@ -29,3 +29,5 @@ rules:
   - DOMAIN-SUFFIX,ibkr.com,美国01
   - DOMAIN-SUFFIX,interactivebrokers.com,美国01
   - DOMAIN-SUFFIX,deynora.com,节点选择
+  - DOMAIN-SUFFIX,chatgpt.com,美国01
+  - DOMAIN-SUFFIX,openai.com,美国01
