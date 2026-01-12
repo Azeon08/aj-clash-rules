@@ -21,13 +21,18 @@ rules:
   - DOMAIN-SUFFIX,deynora.com,DIRECT
   - DOMAIN-SUFFIX,clickdealer.com,节点选择
   - DOMAIN-SUFFIX,popads.net,节点选择
-  - DOMAIN-SUFFIX,gemini.google.com,美国01
-  - DOMAIN-SUFFIX,partnermatic.com,DIRECT
+  - DOMAIN-SUFFIX,google.com,美国01
+  - DOMAIN-SUFFIX,partnermatic.com,节点选择
   - IP-CIDR,43.167.167.187/32,DIRECT
+  - DOMAIN-SUFFIX,yeahpromos.com,DIRECT
   - DOMAIN-SUFFIX,diabrowser.com,美国01
   - DOMAIN-SUFFIX,anthropic.com,美国01
   - DOMAIN-SUFFIX,ibkr.com,美国01
   - DOMAIN-SUFFIX,interactivebrokers.com,美国01
   - DOMAIN-SUFFIX,deynora.com,节点选择
+  - DOMAIN-SUFFIX,diabrowser.engineering,美国01
+  - DOMAIN-SUFFIX,similarweb.com,美国01
   - DOMAIN-SUFFIX,chatgpt.com,美国01
   - DOMAIN-SUFFIX,openai.com,美国01
+  - DOMAIN-KEYWORD,antigravity,美国01
+  - DOMAIN-KEYWORD,tiktok,美国01
