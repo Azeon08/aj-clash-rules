@@ -37,5 +37,5 @@ rules:
   - DOMAIN-KEYWORD,antigravity,美国01
   - DOMAIN-KEYWORD,tiktok,美国01
   - DOMAIN-KEYWORD,google,美国01
-  - DOMAIN-KEYWORD,binance,美国01
-  - DOMAIN-KEYWORD,bnb,美国01
+  - DOMAIN-KEYWORD,binance,DIRECT
+  - DOMAIN-KEYWORD,bnb,DIRECT
