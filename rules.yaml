@@ -39,3 +39,5 @@ rules:
   - DOMAIN-KEYWORD,google,美国01
   - DOMAIN-KEYWORD,binance,DIRECT
   - DOMAIN-KEYWORD,bnb,DIRECT
+  - DOMAIN-SUFFIX,schwab.com,DIRECT
+  - DOMAIN-KEYWORD,dtcpay,DIRECT
