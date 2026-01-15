@@ -42,3 +42,4 @@ rules:
   - DOMAIN-SUFFIX,schwab.com,DIRECT
   - DOMAIN-KEYWORD,dtcpay,DIRECT
   - DOMAIN-SUFFIX,n26.com,DIRECT
+  - DOMAIN-SUFFIX,payoneer.com,DIRECT
