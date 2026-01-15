@@ -41,3 +41,4 @@ rules:
   - DOMAIN-KEYWORD,bnb,DIRECT
   - DOMAIN-SUFFIX,schwab.com,DIRECT
   - DOMAIN-KEYWORD,dtcpay,DIRECT
+  - DOMAIN-SUFFIX,n26.com,美国01
