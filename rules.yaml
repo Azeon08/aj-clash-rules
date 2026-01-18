@@ -43,3 +43,4 @@ rules:
   - DOMAIN-KEYWORD,dtcpay,DIRECT
   - DOMAIN-SUFFIX,n26.com,DIRECT
   - DOMAIN-SUFFIX,payoneer.com,DIRECT
+  - DOMAIN-KEYWORD,lemonade.finance,DIRECT
