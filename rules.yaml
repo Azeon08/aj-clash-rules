@@ -44,3 +44,4 @@ rules:
   - DOMAIN-SUFFIX,n26.com,DIRECT
   - DOMAIN-SUFFIX,payoneer.com,DIRECT
   - DOMAIN-KEYWORD,lemonade.finance,DIRECT
+  - DOMAIN-KEYWORD,techfx88.com,节点选择
