@@ -45,4 +45,4 @@ rules:
   - DOMAIN-SUFFIX,payoneer.com,DIRECT
   - DOMAIN-KEYWORD,lemonade.finance,DIRECT
   - DOMAIN-KEYWORD,techfx88.com,节点选择
-  - DOMAIN-KEYWORD,coinbase,德国01
+  
