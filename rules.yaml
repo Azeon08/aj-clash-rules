@@ -45,4 +45,6 @@ rules:
   - DOMAIN-SUFFIX,payoneer.com,DIRECT
   - DOMAIN-KEYWORD,lemonade.finance,DIRECT
   - DOMAIN-KEYWORD,techfx88.com,节点选择
-  
+  - DOMAIN-SUFFIX,mercury.com,美国01
+  - DOMAIN-SUFFIX,bonusarrive.com,DIRECT
+  - DOMAIN-SUFFIX,firstrade.com,美国01
